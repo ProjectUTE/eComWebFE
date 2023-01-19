@@ -28,49 +28,49 @@ function SecondaryNav() {
                       <div className="mega-menu-list">
                         <ul>
                           <li className="js-active">
-                            <a href="shop-side-version-2.html">
+                            <a hrefLang="shop-side-version-2.html">
                               <i className="fas fa-tv u-s-m-r-6" />
                               <span>Electronics</span>
                             </a>
                             <span className="js-menu-toggle js-toggle-mark" />
                           </li>
                           <li>
-                            <a href="shop-side-version-2.html">
+                            <a hrefLang="shop-side-version-2.html">
                               <i className="fas fa-female u-s-m-r-6" />
                               <span>Women's Clothing</span>
                             </a>
                             <span className="js-menu-toggle" />
                           </li>
                           <li>
-                            <a href="shop-side-version-2.html">
+                            <a hrefLang="shop-side-version-2.html">
                               <i className="fas fa-male u-s-m-r-6" />
                               <span>Men's Clothing</span>
                             </a>
                             <span className="js-menu-toggle" />
                           </li>
                           <li>
-                            <a href="index.html">
+                            <a hrefLang="index.html">
                               <i className="fas fa-utensils u-s-m-r-6" />
                               <span>Food &amp; Supplies</span>
                             </a>
                             <span className="js-menu-toggle" />
                           </li>
                           <li>
-                            <a href="index.html">
+                            <a hrefLang="index.html">
                               <i className="fas fa-couch u-s-m-r-6" />
                               <span>Furniture &amp; Decor</span>
                             </a>
                             <span className="js-menu-toggle" />
                           </li>
                           <li>
-                            <a href="index.html">
+                            <a hrefLang="index.html">
                               <i className="fas fa-football-ball u-s-m-r-6" />
                               <span>Sports &amp; Game</span>
                             </a>
                             <span className="js-menu-toggle" />
                           </li>
                           <li>
-                            <a href="index.html">
+                            <a hrefLang="index.html">
                               <i className="fas fa-heartbeat u-s-m-r-6" />
                               <span>Beauty &amp; Health</span>
                             </a>
@@ -85,27 +85,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   3D PRINTER &amp; SUPPLIES
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   3d Printer
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   3d Printing Pen
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   3d Printing Accessories
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   3d Printer Module Board
                                 </a>
                               </li>
@@ -114,25 +114,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   HOME AUDIO &amp; VIDEO
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">TV Boxes</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  TV Boxes
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   TC Receiver &amp; Accessories
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Display Dongle
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Home Theater System
                                 </a>
                               </li>
@@ -141,25 +143,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   MEDIA PLAYERS
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Earphones</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Earphones
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Mp3 Players
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Speakers &amp; Radios
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Microphones
                                 </a>
                               </li>
@@ -168,22 +172,22 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   VIDEO GAME ACCESSORIES
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Nintendo Video Games Accessories
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Sony Video Games Accessories
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Xbox Video Games Accessories
                                 </a>
                               </li>
@@ -197,27 +201,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   SECURITY &amp; PROTECTION
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Security Cameras
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Alarm System
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Security Gadgets
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   CCTV Security &amp; Accessories
                                 </a>
                               </li>
@@ -226,27 +230,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   PHOTOGRAPHY &amp; CAMERA
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Digital Cameras
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Sport Camera &amp; Accessories
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Camera Accessories
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Lenses &amp; Accessories
                                 </a>
                               </li>
@@ -255,27 +259,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   ARDUINO COMPATIBLE
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Raspberry Pi &amp; Orange Pi
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Module Board
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Smart Robot
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Board Kits
                                 </a>
                               </li>
@@ -284,27 +288,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   DSLR Camera
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Nikon Cameras
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Canon Camera
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Sony Camera
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   DSLR Lenses
                                 </a>
                               </li>
@@ -318,27 +322,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   NECESSARY ACCESSORIES
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Flash Cards
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Memory Cards
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Flash Pins
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Compact Discs
                                 </a>
                               </li>
@@ -348,7 +352,7 @@ function SecondaryNav() {
                             <div className="mega-banner">
                               <a
                                 className="u-d-block"
-                                href="shop-side-version-2.html"
+                                hrefLang="shop-side-version-2.html"
                               >
                                 <img
                                   className="u-img-fluid u-d-block"
@@ -370,7 +374,7 @@ function SecondaryNav() {
                             <div className="mega-banner">
                               <a
                                 className="u-d-block"
-                                href="shop-side-version-2.html"
+                                hrefLang="shop-side-version-2.html"
                               >
                                 <img
                                   className="u-img-fluid u-d-block"
@@ -384,7 +388,7 @@ function SecondaryNav() {
                             <div className="mega-banner">
                               <a
                                 className="u-d-block"
-                                href="shop-side-version-2.html"
+                                hrefLang="shop-side-version-2.html"
                               >
                                 <img
                                   className="u-img-fluid u-d-block"
@@ -402,73 +406,83 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   HOT CATEGORIES
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Dresses</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Dresses
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Blouses &amp; Shirts
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">T-shirts</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  T-shirts
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Rompers</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Rompers
+                                </a>
                               </li>
                             </ul>
                           </div>
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">INTIMATES</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  INTIMATES
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Bras</a>
+                                <a hrefLang="shop-side-version-2.html">Bras</a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Brief Sets
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Bustiers &amp; Corsets
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Panties</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Panties
+                                </a>
                               </li>
                             </ul>
                           </div>
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   WEDDING &amp; EVENTS
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Wedding Dresses
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Evening Dresses
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Prom Dresses
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Flower Dresses
                                 </a>
                               </li>
@@ -477,19 +491,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">BOTTOMS</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  BOTTOMS
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Skirts</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Skirts
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Shorts</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Shorts
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Leggings</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Leggings
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Jeans</a>
+                                <a hrefLang="shop-side-version-2.html">Jeans</a>
                               </li>
                             </ul>
                           </div>
@@ -501,21 +523,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">OUTWEAR</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  OUTWEAR
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Blazers</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Blazers
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Basics Jackets
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Trench</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Trench
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Leather &amp; Suede
                                 </a>
                               </li>
@@ -524,25 +552,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">JACKETS</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  JACKETS
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Denim Jackets
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Trucker Jackets
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Windbreaker Jackets
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Leather Jackets
                                 </a>
                               </li>
@@ -551,46 +581,52 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   ACCESSORIES
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Tech Accessories
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Headwear</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Headwear
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Baseball Caps
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Belts</a>
+                                <a hrefLang="shop-side-version-2.html">Belts</a>
                               </li>
                             </ul>
                           </div>
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   OTHER ACCESSORIES
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Bags</a>
+                                <a hrefLang="shop-side-version-2.html">Bags</a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Wallets</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Wallets
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Watches</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Watches
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Sunglasses
                                 </a>
                               </li>
@@ -605,7 +641,7 @@ function SecondaryNav() {
                             <div className="mega-banner">
                               <a
                                 className="u-d-block"
-                                href="shop-side-version-2.html"
+                                hrefLang="shop-side-version-2.html"
                               >
                                 <img
                                   className="u-img-fluid u-d-block"
@@ -619,7 +655,7 @@ function SecondaryNav() {
                             <div className="mega-banner">
                               <a
                                 className="u-d-block"
-                                href="shop-side-version-2.html"
+                                hrefLang="shop-side-version-2.html"
                               >
                                 <img
                                   className="u-img-fluid u-d-block"
@@ -641,7 +677,7 @@ function SecondaryNav() {
                             <div className="mega-banner">
                               <a
                                 className="u-d-block"
-                                href="shop-side-version-2.html"
+                                hrefLang="shop-side-version-2.html"
                               >
                                 <img
                                   className="u-img-fluid u-d-block"
@@ -655,7 +691,7 @@ function SecondaryNav() {
                             <div className="mega-banner">
                               <a
                                 className="u-d-block"
-                                href="shop-side-version-2.html"
+                                hrefLang="shop-side-version-2.html"
                               >
                                 <img
                                   className="u-img-fluid u-d-block"
@@ -669,7 +705,7 @@ function SecondaryNav() {
                             <div className="mega-banner">
                               <a
                                 className="u-d-block"
-                                href="shop-side-version-2.html"
+                                hrefLang="shop-side-version-2.html"
                               >
                                 <img
                                   className="u-img-fluid u-d-block"
@@ -687,80 +723,108 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">HOT SALE</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  HOT SALE
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">T-Shirts</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  T-Shirts
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Tank Tops</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Tank Tops
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Polo</a>
+                                <a hrefLang="shop-side-version-2.html">Polo</a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Shirts</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Shirts
+                                </a>
                               </li>
                             </ul>
                           </div>
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">OUTWEAR</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  OUTWEAR
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Hoodies</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Hoodies
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Trench</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Trench
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Parkas</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Parkas
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Sweaters</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Sweaters
+                                </a>
                               </li>
                             </ul>
                           </div>
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">BOTTOMS</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  BOTTOMS
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Casual Pants
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Cargo Pants
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Jeans</a>
+                                <a hrefLang="shop-side-version-2.html">Jeans</a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Shorts</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Shorts
+                                </a>
                               </li>
                             </ul>
                           </div>
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">UNDERWEAR</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  UNDERWEAR
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Boxers</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Boxers
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Briefs</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Briefs
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Robes</a>
+                                <a hrefLang="shop-side-version-2.html">Robes</a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Socks</a>
+                                <a hrefLang="shop-side-version-2.html">Socks</a>
                               </li>
                             </ul>
                           </div>
@@ -772,25 +836,27 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">JACKETS</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  JACKETS
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Denim Jackets
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Trucker Jackets
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Windbreaker Jackets
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Leather Jackets
                                 </a>
                               </li>
@@ -799,65 +865,75 @@ function SecondaryNav() {
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   SUNGLASSES
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Pilot</a>
+                                <a hrefLang="shop-side-version-2.html">Pilot</a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Wayfarer</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Wayfarer
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Square</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Square
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Round</a>
+                                <a hrefLang="shop-side-version-2.html">Round</a>
                               </li>
                             </ul>
                           </div>
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   ACCESSORIES
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Eyewear Frames
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Scarves</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Scarves
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Hats</a>
+                                <a hrefLang="shop-side-version-2.html">Hats</a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Belts</a>
+                                <a hrefLang="shop-side-version-2.html">Belts</a>
                               </li>
                             </ul>
                           </div>
                           <div className="col-lg-3">
                             <ul>
                               <li className="mega-list-title">
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   OTHER ACCESSORIES
                                 </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Bags</a>
+                                <a hrefLang="shop-side-version-2.html">Bags</a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Wallets</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Wallets
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">Watches</a>
+                                <a hrefLang="shop-side-version-2.html">
+                                  Watches
+                                </a>
                               </li>
                               <li>
-                                <a href="shop-side-version-2.html">
+                                <a hrefLang="shop-side-version-2.html">
                                   Tech Accessories
                                 </a>
                               </li>
@@ -872,7 +948,7 @@ function SecondaryNav() {
                             <div className="mega-banner">
                               <a
                                 className="u-d-block"
-                                href="shop-side-version-2.html"
+                                hrefLang="shop-side-version-2.html"
                               >
                                 <img
                                   className="u-img-fluid u-d-block"
@@ -886,7 +962,7 @@ function SecondaryNav() {
                             <div className="mega-banner">
                               <a
                                 className="u-d-block"
-                                href="shop-side-version-2.html"
+                                hrefLang="shop-side-version-2.html"
                               >
                                 <img
                                   className="u-img-fluid u-d-block"
@@ -942,11 +1018,11 @@ function SecondaryNav() {
               {/*====== List ======*/}
               <ul className="ah-list ah-list--design2 ah-list--link-color-secondary">
                 <li>
-                  <a href="shop-side-version-2.html">NEW ARRIVALS</a>
+                  <a hrefLang="shop-side-version-2.html">HOME</a>
                 </li>
                 <li className="has-dropdown">
                   <a>
-                    PAGES
+                    SHOP
                     <i className="fas fa-angle-down u-s-m-l-6" />
                   </a>
                   {/*====== Dropdown ======*/}
@@ -961,13 +1037,13 @@ function SecondaryNav() {
                       <span className="js-menu-toggle" />
                       <ul style={{ width: '118px' }}>
                         <li>
-                          <a href="index.html">Home 1</a>
+                          <a hrefLang="index.html">Home 1</a>
                         </li>
                         <li>
-                          <a href="index-2.html">Home 2</a>
+                          <a hrefLang="index-2.html">Home 2</a>
                         </li>
                         <li>
-                          <a href="index-3.html">Home 3</a>
+                          <a hrefLang="index-3.html">Home 3</a>
                         </li>
                       </ul>
                       {/*====== End - Dropdown ======*/}
@@ -981,19 +1057,21 @@ function SecondaryNav() {
                       <span className="js-menu-toggle" />
                       <ul style={{ width: '200px' }}>
                         <li>
-                          <a href="signin.html">Signin / Already Registered</a>
+                          <a hrefLang="signin.html">
+                            Signin / Already Registered
+                          </a>
                         </li>
                         <li>
-                          <a href="signup.html">Signup / Register</a>
+                          <a hrefLang="signup.html">Signup / Register</a>
                         </li>
                         <li>
-                          <a href="lost-password.html">Lost Password</a>
+                          <a hrefLang="lost-password.html">Lost Password</a>
                         </li>
                       </ul>
                       {/*====== End - Dropdown ======*/}
                     </li>
                     <li className="has-dropdown has-dropdown--ul-left-100">
-                      <a href="dashboard.html">
+                      <a hrefLang="dashboard.html">
                         Dashboard
                         <i className="fas fa-angle-down i-state-right u-s-m-l-6" />
                       </a>
@@ -1001,7 +1079,7 @@ function SecondaryNav() {
                       <span className="js-menu-toggle" />
                       <ul style={{ width: '200px' }}>
                         <li className="has-dropdown has-dropdown--ul-left-100">
-                          <a href="dashboard.html">
+                          <a hrefLang="dashboard.html">
                             Manage My Account
                             <i className="fas fa-angle-down i-state-right u-s-m-l-6" />
                           </a>
@@ -1009,24 +1087,28 @@ function SecondaryNav() {
                           <span className="js-menu-toggle" />
                           <ul style={{ width: '180px' }}>
                             <li>
-                              <a href="dash-edit-profile.html">Edit Profile</a>
+                              <a hrefLang="dash-edit-profile.html">
+                                Edit Profile
+                              </a>
                             </li>
                             <li>
-                              <a href="dash-address-book.html">
+                              <a hrefLang="dash-address-book.html">
                                 Edit Address Book
                               </a>
                             </li>
                             <li>
-                              <a href="dash-manage-order.html">Manage Order</a>
+                              <a hrefLang="dash-manage-order.html">
+                                Manage Order
+                              </a>
                             </li>
                           </ul>
                           {/*====== End - Dropdown ======*/}
                         </li>
                         <li>
-                          <a href="dash-my-profile.html">My Profile</a>
+                          <a hrefLang="dash-my-profile.html">My Profile</a>
                         </li>
                         <li className="has-dropdown has-dropdown--ul-left-100">
-                          <a href="dash-address-book.html">
+                          <a hrefLang="dash-address-book.html">
                             Address Book
                             <i className="fas fa-angle-down i-state-right u-s-m-l-6" />
                           </a>
@@ -1034,17 +1116,17 @@ function SecondaryNav() {
                           <span className="js-menu-toggle" />
                           <ul style={{ width: '180px' }}>
                             <li>
-                              <a href="dash-address-make-default.html">
+                              <a hrefLang="dash-address-make-default.html">
                                 Address Make Default
                               </a>
                             </li>
                             <li>
-                              <a href="dash-address-add.html">
+                              <a hrefLang="dash-address-add.html">
                                 Add New Address
                               </a>
                             </li>
                             <li>
-                              <a href="dash-address-edit.html">
+                              <a hrefLang="dash-address-edit.html">
                                 Edit Address Book
                               </a>
                             </li>
@@ -1052,18 +1134,18 @@ function SecondaryNav() {
                           {/*====== End - Dropdown ======*/}
                         </li>
                         <li>
-                          <a href="dash-track-order.html">Track Order</a>
+                          <a hrefLang="dash-track-order.html">Track Order</a>
                         </li>
                         <li>
-                          <a href="dash-my-order.html">My Orders</a>
+                          <a hrefLang="dash-my-order.html">My Orders</a>
                         </li>
                         <li>
-                          <a href="dash-payment-option.html">
+                          <a hrefLang="dash-payment-option.html">
                             My Payment Options
                           </a>
                         </li>
                         <li>
-                          <a href="dash-cancellation.html">
+                          <a hrefLang="dash-cancellation.html">
                             My Returns &amp; Cancellations
                           </a>
                         </li>
@@ -1079,13 +1161,13 @@ function SecondaryNav() {
                       <span className="js-menu-toggle" />
                       <ul style={{ width: '200px' }}>
                         <li>
-                          <a href="empty-search.html">Empty Search</a>
+                          <a hrefLang="empty-search.html">Empty Search</a>
                         </li>
                         <li>
-                          <a href="empty-cart.html">Empty Cart</a>
+                          <a hrefLang="empty-cart.html">Empty Cart</a>
                         </li>
                         <li>
-                          <a href="empty-wishlist.html">Empty Wishlist</a>
+                          <a hrefLang="empty-wishlist.html">Empty Wishlist</a>
                         </li>
                       </ul>
                       {/*====== End - Dropdown ======*/}
@@ -1099,15 +1181,15 @@ function SecondaryNav() {
                       <span className="js-menu-toggle" />
                       <ul style={{ width: '200px' }}>
                         <li>
-                          <a href="product-detail.html">Product Details</a>
+                          <a hrefLang="product-detail.html">Product Details</a>
                         </li>
                         <li>
-                          <a href="product-detail-variable.html">
+                          <a hrefLang="product-detail-variable.html">
                             Product Details Variable
                           </a>
                         </li>
                         <li>
-                          <a href="product-detail-affiliate.html">
+                          <a hrefLang="product-detail-affiliate.html">
                             Product Details Affiliate
                           </a>
                         </li>
@@ -1123,20 +1205,22 @@ function SecondaryNav() {
                       <span className="js-menu-toggle" />
                       <ul style={{ width: '200px' }}>
                         <li>
-                          <a href="shop-grid-left.html">
+                          <a hrefLang="shop-grid-left.html">
                             Shop Grid Left Sidebar
                           </a>
                         </li>
                         <li>
-                          <a href="shop-grid-right.html">
+                          <a hrefLang="shop-grid-right.html">
                             Shop Grid Right Sidebar
                           </a>
                         </li>
                         <li>
-                          <a href="shop-grid-full.html">Shop Grid Full Width</a>
+                          <a hrefLang="shop-grid-full.html">
+                            Shop Grid Full Width
+                          </a>
                         </li>
                         <li>
-                          <a href="shop-side-version-2.html">
+                          <a hrefLang="shop-side-version-2.html">
                             Shop Side Version 2
                           </a>
                         </li>
@@ -1152,41 +1236,43 @@ function SecondaryNav() {
                       <span className="js-menu-toggle" />
                       <ul style={{ width: '200px' }}>
                         <li>
-                          <a href="shop-list-left.html">
+                          <a hrefLang="shop-list-left.html">
                             Shop List Left Sidebar
                           </a>
                         </li>
                         <li>
-                          <a href="shop-list-right.html">
+                          <a hrefLang="shop-list-right.html">
                             Shop List Right Sidebar
                           </a>
                         </li>
                         <li>
-                          <a href="shop-list-full.html">Shop List Full Width</a>
+                          <a hrefLang="shop-list-full.html">
+                            Shop List Full Width
+                          </a>
                         </li>
                       </ul>
                       {/*====== End - Dropdown ======*/}
                     </li>
                     <li>
-                      <a href="cart.html">Cart</a>
+                      <a hrefLang="cart.html">Cart</a>
                     </li>
                     <li>
-                      <a href="wishlist.html">Wishlist</a>
+                      <a hrefLang="wishlist.html">Wishlist</a>
                     </li>
                     <li>
-                      <a href="checkout.html">Checkout</a>
+                      <a hrefLang="checkout.html">Checkout</a>
                     </li>
                     <li>
-                      <a href="faq.html">FAQ</a>
+                      <a hrefLang="faq.html">FAQ</a>
                     </li>
                     <li>
-                      <a href="about.html">About us</a>
+                      <a hrefLang="about.html">About us</a>
                     </li>
                     <li>
-                      <a href="contact.html">Contact</a>
+                      <a hrefLang="contact.html">Contact</a>
                     </li>
                     <li>
-                      <a href="404.html">404</a>
+                      <a hrefLang="404.html">404</a>
                     </li>
                   </ul>
                   {/*====== End - Dropdown ======*/}
@@ -1200,28 +1286,30 @@ function SecondaryNav() {
                   <span className="js-menu-toggle" />
                   <ul style={{ width: '200px' }}>
                     <li>
-                      <a href="blog-left-sidebar.html">Blog Left Sidebar</a>
+                      <a hrefLang="blog-left-sidebar.html">Blog Left Sidebar</a>
                     </li>
                     <li>
-                      <a href="blog-right-sidebar.html">Blog Right Sidebar</a>
+                      <a hrefLang="blog-right-sidebar.html">
+                        Blog Right Sidebar
+                      </a>
                     </li>
                     <li>
-                      <a href="blog-sidebar-none.html">Blog Sidebar None</a>
+                      <a hrefLang="blog-sidebar-none.html">Blog Sidebar None</a>
                     </li>
                     <li>
-                      <a href="blog-masonry.html">Blog Masonry</a>
+                      <a hrefLang="blog-masonry.html">Blog Masonry</a>
                     </li>
                     <li>
-                      <a href="blog-detail.html">Blog Details</a>
+                      <a hrefLang="blog-detail.html">Blog Details</a>
                     </li>
                   </ul>
                   {/*====== End - Dropdown ======*/}
                 </li>
                 <li>
-                  <a href="shop-side-version-2.html">VALUE OF THE DAY</a>
+                  <a hrefLang="shop-side-version-2.html">ABOUT</a>
                 </li>
                 <li>
-                  <a href="shop-side-version-2.html">GIFT CARDS</a>
+                  <a hrefLang="shop-side-version-2.html">CONTACT</a>
                 </li>
               </ul>
               {/*====== End - List ======*/}
@@ -1242,12 +1330,12 @@ function SecondaryNav() {
               {/*====== List ======*/}
               <ul className="ah-list ah-list--design1 ah-list--link-color-secondary">
                 <li>
-                  <a href="index.html">
+                  <a hrefLang="index.html">
                     <FaHome />
                   </a>
                 </li>
                 <li>
-                  <a href="wishlist.html">
+                  <a hrefLang="wishlist.html">
                     <FaHeart />
                   </a>
                 </li>
@@ -1267,7 +1355,7 @@ function SecondaryNav() {
                           <div className="mini-product__image-wrapper">
                             <a
                               className="mini-product__link"
-                              href="product-detail.html"
+                              hrefLang="product-detail.html"
                             >
                               <img
                                 className="u-img-fluid"
@@ -1278,10 +1366,12 @@ function SecondaryNav() {
                           </div>
                           <div className="mini-product__info-wrapper">
                             <span className="mini-product__category">
-                              <a href="shop-side-version-2.html">Electronics</a>
+                              <a hrefLang="shop-side-version-2.html">
+                                Electronics
+                              </a>
                             </span>
                             <span className="mini-product__name">
-                              <a href="product-detail.html">
+                              <a hrefLang="product-detail.html">
                                 Yellow Wireless Headphone
                               </a>
                             </span>
@@ -1298,7 +1388,7 @@ function SecondaryNav() {
                           <div className="mini-product__image-wrapper">
                             <a
                               className="mini-product__link"
-                              href="product-detail.html"
+                              hrefLang="product-detail.html"
                             >
                               <img
                                 className="u-img-fluid"
@@ -1309,10 +1399,12 @@ function SecondaryNav() {
                           </div>
                           <div className="mini-product__info-wrapper">
                             <span className="mini-product__category">
-                              <a href="shop-side-version-2.html">Electronics</a>
+                              <a hrefLang="shop-side-version-2.html">
+                                Electronics
+                              </a>
                             </span>
                             <span className="mini-product__name">
-                              <a href="product-detail.html">
+                              <a hrefLang="product-detail.html">
                                 Nikon DSLR Camera 4k
                               </a>
                             </span>
@@ -1329,7 +1421,7 @@ function SecondaryNav() {
                           <div className="mini-product__image-wrapper">
                             <a
                               className="mini-product__link"
-                              href="product-detail.html"
+                              hrefLang="product-detail.html"
                             >
                               <img
                                 className="u-img-fluid"
@@ -1340,12 +1432,12 @@ function SecondaryNav() {
                           </div>
                           <div className="mini-product__info-wrapper">
                             <span className="mini-product__category">
-                              <a href="shop-side-version-2.html">
+                              <a hrefLang="shop-side-version-2.html">
                                 Women Clothing
                               </a>
                             </span>
                             <span className="mini-product__name">
-                              <a href="product-detail.html">
+                              <a hrefLang="product-detail.html">
                                 New Dress D Nice Elegant
                               </a>
                             </span>
@@ -1362,7 +1454,7 @@ function SecondaryNav() {
                           <div className="mini-product__image-wrapper">
                             <a
                               className="mini-product__link"
-                              href="product-detail.html"
+                              hrefLang="product-detail.html"
                             >
                               <img
                                 className="u-img-fluid"
@@ -1373,12 +1465,12 @@ function SecondaryNav() {
                           </div>
                           <div className="mini-product__info-wrapper">
                             <span className="mini-product__category">
-                              <a href="shop-side-version-2.html">
+                              <a hrefLang="shop-side-version-2.html">
                                 Men Clothing
                               </a>
                             </span>
                             <span className="mini-product__name">
-                              <a href="product-detail.html">
+                              <a hrefLang="product-detail.html">
                                 New Fashion D Nice Elegant
                               </a>
                             </span>
@@ -1400,13 +1492,13 @@ function SecondaryNav() {
                       <div className="mini-action">
                         <a
                           className="mini-link btn--e-brand-b-2"
-                          href="checkout.html"
+                          hrefLang="checkout.html"
                         >
                           PROCEED TO CHECKOUT
                         </a>
                         <a
                           className="mini-link btn--e-transparent-secondary-b-2"
-                          href="cart.html"
+                          hrefLang="cart.html"
                         >
                           VIEW CART
                         </a>

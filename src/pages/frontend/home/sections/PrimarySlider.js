@@ -23,7 +23,7 @@ function PrimarySlider() {
                   </span>
                   <a
                     className="shop-now-link btn--e-brand"
-                    href="shop-side-version-2.html"
+                    hrefLang="shop-side-version-2.html"
                   >
                     SHOP NOW
                   </a>
@@ -53,7 +53,7 @@ function PrimarySlider() {
                   </span>
                   <a
                     className="shop-now-link btn--e-brand"
-                    href="shop-side-version-2.html"
+                    hrefLang="shop-side-version-2.html"
                   >
                     SHOP NOW
                   </a>
@@ -83,7 +83,7 @@ function PrimarySlider() {
                   </span>
                   <a
                     className="shop-now-link btn--e-brand"
-                    href="shop-side-version-2.html"
+                    hrefLang="shop-side-version-2.html"
                   >
                     SHOP NOW
                   </a>

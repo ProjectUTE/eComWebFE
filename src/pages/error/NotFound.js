@@ -18,7 +18,7 @@ function NotFound() {
                     </span>
                     <a
                       className="empty__redirect-link btn--e-brand"
-                      href="index.html"
+                      hrefLang="index.html"
                     >
                       GO TO HOME
                     </a>

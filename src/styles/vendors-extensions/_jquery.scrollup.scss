@@ -4,6 +4,9 @@
 
 /* ScrollUp Custom */
 #topScroll {
+  visibility: hidden;
+  position: fixed;
+  z-index: 100;
   right: 24px;
   bottom: 60px;
   width: 50px;
@@ -14,5 +17,11 @@
   color: $g-brand-secondary-color;
   font-size: 18px;
   text-align: center;
+  transition: all linear 0.2s;
+  transform: translateX(100%);
+  cursor: pointer;
+  &.visible {
+    transform: translateX(0);
+    visibility: visible;
+  }
 }
-

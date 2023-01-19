@@ -6,7 +6,7 @@ import {
   FaPhoneVolume,
   FaEnvelope,
 } from 'react-icons/fa';
-import logo from '../../assets/images/logo/logo-1.png';
+import logo from '../../../assets/images/logo/logo-1.png';
 
 function PrimaryNav() {
   return (
@@ -64,25 +64,25 @@ function PrimaryNav() {
                   <span className="js-menu-toggle" />
                   <ul style={{ width: '120px' }}>
                     <li>
-                      <a href="dashboard.html">
+                      <a hrefLang="dashboard.html">
                         <i className="fas fa-user-circle u-s-m-r-6" />
                         <span>Account</span>
                       </a>
                     </li>
                     <li>
-                      <a href="signup.html">
+                      <a hrefLang="signup.html">
                         <i className="fas fa-user-plus u-s-m-r-6" />
                         <span>Signup</span>
                       </a>
                     </li>
                     <li>
-                      <a href="signin.html">
+                      <a hrefLang="signin.html">
                         <i className="fas fa-lock u-s-m-r-6" />
                         <span>Signin</span>
                       </a>
                     </li>
                     <li>
-                      <a href="signup.html">
+                      <a hrefLang="signup.html">
                         <i className="fas fa-lock-open u-s-m-r-6" />
                         <span>Signout</span>
                       </a>
@@ -153,11 +153,11 @@ function PrimaryNav() {
                   data-placement="left"
                   title="Contact"
                 >
-                  <a href="tel:+0900901904"></a>
+                  <a hrefLang="tel:+0900901904"></a>
                   <FaPhoneVolume />
                 </li>
                 <li data-tooltip="tooltip" data-placement="left" title="Mail">
-                  <a href="mailto:contact@domain.com">
+                  <a hrefLang="mailto:contact@domain.com">
                     <FaEnvelope />
                   </a>
                 </li>
