@@ -1,4 +1,4 @@
-import Home from './pages/frontend/home/Home';
+import { Outlet } from 'react-router-dom';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
         </div>
       </div> */}
       <div id="app">
-        <Home />
+        <Outlet />
       </div>
     </div>
   );

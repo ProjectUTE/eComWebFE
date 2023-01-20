@@ -1,3 +1,4 @@
+import { NavLink } from 'react-router-dom';
 import {
   FaSearch,
   FaUserCircle,
@@ -15,9 +16,9 @@ function PrimaryNav() {
         {/*====== Primary Nav ======*/}
         <div className="primary-nav">
           {/*====== Main Logo ======*/}
-          <a className="main-logo">
+          <NavLink className="main-logo" to={`/`}>
             <img src={logo} alt="" />
-          </a>
+          </NavLink>
           {/*====== End - Main Logo ======*/}
           {/*====== Search Form ======*/}
           <form className="main-form">

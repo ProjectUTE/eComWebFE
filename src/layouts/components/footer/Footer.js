@@ -17,10 +17,13 @@ function Footer() {
             <div className="col-lg-4 col-md-6">
               <div className="outer-footer__content u-s-m-b-40">
                 <span className="outer-footer__content-title">Contact Us</span>
-                {contactUs.map((item) => {
+                {contactUs.map((item, index) => {
                   const Icon = item.icon;
                   return (
-                    <div className="outer-footer__text-wrap d-flex align-items-center gap-1">
+                    <div
+                      className="outer-footer__text-wrap d-flex align-items-center gap-1"
+                      key={index}
+                    >
                       <Icon />
                       <span>{item.value}</span>
                     </div>
@@ -28,10 +31,10 @@ function Footer() {
                 })}
                 <div className="outer-footer__social">
                   <ul>
-                    {socials.map((item) => {
+                    {socials.map((item, index) => {
                       const Icon = item.icon;
                       return (
-                        <li>
+                        <li key={index}>
                           <a className="s-fb--color-hover" hrefLang="#">
                             <Icon />
                           </a>
@@ -51,8 +54,8 @@ function Footer() {
                     </span>
                     <div className="outer-footer__list-wrap">
                       <ul>
-                        {Information.map((item) => (
-                          <li>
+                        {Information.map((item, index) => (
+                          <li key={index}>
                             <a hrefLang="">{item.value}</a>
                           </li>
                         ))}
@@ -67,8 +70,8 @@ function Footer() {
                         Our Company
                       </span>
                       <ul>
-                        {company.map((item) => (
-                          <li>
+                        {company.map((item, index) => (
+                          <li key={index}>
                             <a hrefLang="">{item.value}</a>
                           </li>
                         ))}
@@ -85,8 +88,8 @@ function Footer() {
                 </span>
                 <form className="newsletter">
                   <div className="u-s-m-b-15">
-                    {newsletter.map((item) => (
-                      <div className="radio-box newsletter__radio">
+                    {newsletter.map((item, index) => (
+                      <div className="radio-box newsletter__radio" key={index}>
                         <input type="radio" id={item.id} name="gender" />
                         <div className="radio-box__state radio-box__state--primary">
                           <label className="radio-box__label" htmlFor={item.id}>
@@ -133,10 +136,10 @@ function Footer() {
                 </div>
                 <div className="lower-footer__payment">
                   <ul>
-                    {payments.map((item) => {
+                    {payments.map((item, index) => {
                       const Icon = item.icon;
                       return (
-                        <li>
+                        <li key={index}>
                           <Icon />
                         </li>
                       );

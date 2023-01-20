@@ -82,7 +82,10 @@ function SectionContent() {
               <div className="row">
                 {[...Array(9).keys()].map((item) => {
                   return (
-                    <div className="col-xl-3 col-lg-4 col-md-6 col-sm-6 u-s-m-b-30 filter__item headphone">
+                    <div
+                      className="col-xl-3 col-lg-4 col-md-6 col-sm-6 u-s-m-b-30 filter__item headphone"
+                      key={item}
+                    >
                       <div className="product-o product-o--hover-on product-o--radius">
                         <div className="product-o__wrap">
                           <a
@@ -152,7 +155,7 @@ function SectionContent() {
                         </span>
                         <div className="product-o__rating gl-rating-style">
                           {[...Array(5).keys()].map((item) => (
-                            <FaStar />
+                            <FaStar key={item} />
                           ))}
                           <span className="product-o__review">(23)</span>
                         </div>

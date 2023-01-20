@@ -1,3 +1,5 @@
+import { FaComments } from 'react-icons/fa';
+
 function SectionIntro() {
   return (
     <div className="section__intro u-s-m-b-46">
@@ -25,7 +27,7 @@ function SectionContent() {
       <div className="container">
         <div className="row">
           {[...Array(3).keys()].map((item) => (
-            <div className="col-lg-4 col-md-6 u-s-m-b-30">
+            <div className="col-lg-4 col-md-6 u-s-m-b-30" key={item}>
               <div className="bp-mini bp-mini--img u-h-100">
                 <div className="bp-mini__thumbnail">
                   {/*====== Image Code ======*/}
@@ -58,8 +60,11 @@ function SectionContent() {
                     </span>
                     <span className="bp-mini__stat">
                       <span className="bp-mini__comment">
-                        <a href="blog-detail.html">
-                          <i className="far fa-comments u-s-m-r-4" />
+                        <a
+                          href="blog-detail.html"
+                          className="d-inline-flex align-items-center"
+                        >
+                          <FaComments className="u-s-m-r-4" />
                           <span>8</span>
                         </a>
                       </span>

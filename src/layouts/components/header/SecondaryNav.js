@@ -1,4 +1,5 @@
-import { FaHeart, FaHome, FaShoppingBag } from 'react-icons/fa';
+import { NavLink } from 'react-router-dom';
+import { FaAngleDown, FaHeart, FaHome, FaShoppingBag } from 'react-icons/fa';
 
 function SecondaryNav() {
   return (
@@ -1018,13 +1019,13 @@ function SecondaryNav() {
               {/*====== List ======*/}
               <ul className="ah-list ah-list--design2 ah-list--link-color-secondary">
                 <li>
-                  <a hrefLang="shop-side-version-2.html">HOME</a>
+                  <NavLink to={`/`}>HOME</NavLink>
                 </li>
                 <li className="has-dropdown">
-                  <a>
+                  <NavLink to={`/shop`}>
                     SHOP
-                    <i className="fas fa-angle-down u-s-m-l-6" />
-                  </a>
+                    <FaAngleDown className="u-s-m-l-6" />
+                  </NavLink>
                   {/*====== Dropdown ======*/}
                   <span className="js-menu-toggle" />
                   <ul style={{ width: '170px' }}>
@@ -1277,39 +1278,14 @@ function SecondaryNav() {
                   </ul>
                   {/*====== End - Dropdown ======*/}
                 </li>
-                <li className="has-dropdown">
-                  <a>
-                    BLOG
-                    <i className="fas fa-angle-down u-s-m-l-6" />
-                  </a>
-                  {/*====== Dropdown ======*/}
-                  <span className="js-menu-toggle" />
-                  <ul style={{ width: '200px' }}>
-                    <li>
-                      <a hrefLang="blog-left-sidebar.html">Blog Left Sidebar</a>
-                    </li>
-                    <li>
-                      <a hrefLang="blog-right-sidebar.html">
-                        Blog Right Sidebar
-                      </a>
-                    </li>
-                    <li>
-                      <a hrefLang="blog-sidebar-none.html">Blog Sidebar None</a>
-                    </li>
-                    <li>
-                      <a hrefLang="blog-masonry.html">Blog Masonry</a>
-                    </li>
-                    <li>
-                      <a hrefLang="blog-detail.html">Blog Details</a>
-                    </li>
-                  </ul>
-                  {/*====== End - Dropdown ======*/}
+                <li>
+                  <NavLink to={`/blog`}>BLOG</NavLink>
                 </li>
                 <li>
-                  <a hrefLang="shop-side-version-2.html">ABOUT</a>
+                  <NavLink to={`/about`}>ABOUT</NavLink>
                 </li>
                 <li>
-                  <a hrefLang="shop-side-version-2.html">CONTACT</a>
+                  <NavLink to={`/contact`}>CONTACT</NavLink>
                 </li>
               </ul>
               {/*====== End - List ======*/}
