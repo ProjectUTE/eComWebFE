@@ -5,7 +5,16 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import App from '~/App';
 import '~/styles/app.scss';
-import { Home, Cart, About, Contact, Blog } from '~/pages/frontend';
+import {
+  Home,
+  Cart,
+  About,
+  Contact,
+  Blog,
+  Shop,
+  BlogDetail,
+  Checkout,
+} from '~/pages/frontend';
 
 const router = createBrowserRouter([
   {
@@ -32,6 +41,18 @@ const router = createBrowserRouter([
       {
         path: 'blog',
         element: <Blog />,
+      },
+      {
+        path: 'shop',
+        element: <Shop />,
+      },
+      {
+        path: 'blog/blog-detail',
+        element: <BlogDetail />,
+      },
+      {
+        path: 'checkout',
+        element: <Checkout />,
       },
     ],
   },
