@@ -1,0 +1,27 @@
+// -----------------------------------------------------------------------------
+// This file contains all JqueryScrollUp override styles.
+// -----------------------------------------------------------------------------
+
+/* ScrollUp Custom */
+#topScroll {
+  visibility: hidden;
+  position: fixed;
+  z-index: 100;
+  right: 24px;
+  bottom: 60px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  box-shadow: 2px 2px 4px 4px rgba(36, 37, 38, 0.08);
+  background-color: $g-white;
+  color: $g-brand-secondary-color;
+  font-size: 18px;
+  text-align: center;
+  transition: all linear 0.2s;
+  transform: translateX(100%);
+  cursor: pointer;
+  &.visible {
+    transform: translateX(0);
+    visibility: visible;
+  }
+}
